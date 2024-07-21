@@ -4,8 +4,9 @@
 # About ME 👋
 <div align=center><h1>📚 SNS </h1></div>
 <div align=center>
-    <img src="https://img.shields.io/badge/https://www.instagram.com/peony_m_._?igsh=ZzNseXo3amsycDRy&utm_source=qr?style=flat&logo=Instagram&logoColor=#E4405F">
-
+     <a href="https://www.instagram.com/peony_m_._/">
+    <img src="https://img.shields.io/badge/Instagram-#E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
+     </a>
 </div>
 <div align=center><h1>📚 Stacks </h1></div>
 <div align=center>
