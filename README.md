@@ -5,8 +5,9 @@
 <div align="left">
 
 -------
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbi-sz&count_bg=%23FFB6F3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)  
+## About ME
+- "꿈을 찾아" 라는 여행을 마치고 본격적으로 달리고 있는 IOS 개발자를 꿈꾸는 🌱 입니다!
+- 상명대학교 천안캠퍼스 소프트웨학과 3학년 재학(2022. 03 ~)
 
 <br>
 
@@ -15,6 +16,8 @@
 <div style="display:flex; flex-direction:row;">
     <a href="https://www.instagram.com/peony_m_._/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 </div><br>
+
+## 
 
 ## 📚 Stacks 
 <div style="display:flex; flex-direction:row;">
