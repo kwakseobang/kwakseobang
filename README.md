@@ -22,7 +22,7 @@
 ## 📚 Stacks 
 <div style="display:flex; flex-direction:row;">
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
-<img src="https://img.shields.io/badge/SwiftUI-2379F4?style=flat-square&logo=SwiftUI&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swift-2379F4?style=flat-square&logo=SwiftUI&logoColor=white"/>
    
 </div> <br>
 
