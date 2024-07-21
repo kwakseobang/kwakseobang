@@ -5,7 +5,7 @@
 <div align="left">
 
 -------
-## About ME
+## 📌 About ME
 - "꿈을 찾아" 라는 여행을 마치고 본격적으로 달리고 있는 IOS 개발자를 꿈꾸는 🌱 입니다!
 - 상명대학교 천안캠퍼스 소프트웨학과 3학년 재학(2022. 03 ~)
 
@@ -22,6 +22,8 @@
 ## 📚 Stacks 
 <div style="display:flex; flex-direction:row;">
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swift-2379F4?style=flat-square&logo=SwiftUI&logoColor=white"/>
+   
 </div> <br>
 
 <a href="https://github.com/kwakseobang/github-readme-stats">
