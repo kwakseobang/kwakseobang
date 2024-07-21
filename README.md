@@ -9,16 +9,17 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbi-sz&count_bg=%23FFB6F3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)  
 
 <br>
+
 ## 💫 SNS 💫
+
 <div style="display:flex; flex-direction:row;">
     <a href="https://www.instagram.com/peony_m_._/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 </div><br>
 
-<div align=center><h1>📚 Stacks </h1></div>
-<div align=center>
+## 📚 Stacks 
+<div style="display:flex; flex-direction:row;">
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
-</div>
-
+</div> <br>
 
 <a href="https://github.com/kwakseobang/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwakseobang&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
