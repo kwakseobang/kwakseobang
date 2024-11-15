@@ -13,7 +13,8 @@
 ### 💫 SNS 💫
 
 <div style="display:flex; flex-direction:row;">
-    <a href="https://www.instagram.com/peony_m_._/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:iii148389@gmail.com)
+
 </div><br>
 
 
