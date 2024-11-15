@@ -13,7 +13,6 @@
 ### 💫 SNS 💫
 
 <div style="display:flex; flex-direction:row;">
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:iii148389@gmail.com)]
 
 </div><br>
 
