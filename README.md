@@ -6,13 +6,15 @@
 
 -------
 ### 📌 About ME
-- 상명대학교 천안캠퍼스 소프트웨학과 3학년 재학(2022. 03 ~)
-- 1월은 커밋 불가 ㅠ 하루종일 일 하는 중..
+- 상명대학교 천안캠퍼스 소프트웨학과 3학년 (2022. 03 ~ 현재 군휴학 중)
+- 사회복무요원으로 근무 (2025.03.27. ~ 2026.12.26)
+
 <br>
 
 ### 💫 SNS 💫
 
 <div style="display:flex; flex-direction:row;">
+     <a href="https://velog.io/@iii6602/series"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@iii6602/series"/></a>
 
 </div><br>
 
