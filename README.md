@@ -13,6 +13,7 @@
 
 </div><br>
 
+- 현재 훈련소 생활 중 ~ 4/17
 
 ### 📚 Stacks 
 <div style="display:flex; flex-direction:row;">
