@@ -13,8 +13,6 @@
 
 </div><br>
 
-- 현재 훈련소 생활 중 ~ 4/17
-
 ### 📚 Stacks 
 <div style="display:flex; flex-direction:row;">
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
