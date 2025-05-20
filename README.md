@@ -4,24 +4,7 @@
 
 <div align="left">
 
--------
-
-### 💫 SNS 💫
-
-<div style="display:flex; flex-direction:row;">
-     <a href="https://velog.io/@iii6602/series"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@iii6602/series"/></a>
-
-</div><br>
-
-### 📚 Stacks 
-<div style="display:flex; flex-direction:row;">
-<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
-<img src="https://img.shields.io/badge/-SwiftUI-000000?style=flat-square&logo=Swift&logoColor=512BD4"/>
-</div> <br>
-
-### 📚 Study
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a>
+------
 
 ### 📈 Github Stats
 <a href="https://github.com/kwakseobang/github-readme-stats">
