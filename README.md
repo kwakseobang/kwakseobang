@@ -77,9 +77,6 @@
 
 </div>
 
-## 👀 Today Views
-<!--![](https://count.getloli.com/get/@kwakseobang?theme=gelbooru) -->
-<img src="https://count.getloli.com/get/@kwakseobang?theme=rule34" />
 
 ![](https://github-profile-3d-contrib.vercel.app/api?username=kwakseobang&theme=tokyonight)
 
