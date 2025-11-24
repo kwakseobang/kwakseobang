@@ -1,35 +1,23 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=60)
-
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Kwak's+GitHub!+👋)](https://git.io/typing-svg)
-
-</div>
-
----
-
-
-
 ## 💫 About Me
-
-</div>
 
 #### 🤔 해결해야 되는 도메인 영역을 코드로 잘 투영해내는 것에 관심을 가지는 개발자입니다.
 
 #### ✨ 나의 개발 철학
-  - 코드 작성 시 처음보는 사람이더라도 비지니스 로직을 잘 이해할 수 있도록 노력합니다.
+  - 코드 작성 시 처음보는 사람이더라도 **비지니스 로직** 을 잘 이해할 수 있도록 노력합니다.
   - 요구사항이 자주 바뀌는 소프트웨어 특성을 대비해 **개념 간 의존 관계를 유념하고 개념 분리를 위해 노력** 합니다.
   - 커뮤니케이션 비용을 줄이기 위해 개발 전 **문서화**를 중요시 생각합니다.
 
 
-#### 💻 Backend Developer  
+<!-- ####  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6994CD&width=200&lines=Backend+Developer;)](https://git.io/typing-svg) -->
+#### 💻 BackEnd Developer
 #### 🧑‍💻 Me: [@kwakseobang](https://github.com/kwakseobang) 
 #### 👩‍💻 Coding Partner: [@dahyuniiiiii](https://github.com/dahyuniiiiii)
 
 
 ---
 
-<div align="center">
+
+<br>
 
 ## 🛠 Tech Stack
 
@@ -56,49 +44,42 @@
   </tr>
 </table>
 
-</div>
+<br>
 
 ---
-
-<div align="center">
 
 ## 📈 GitHub Stats
 
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=kwakseobang&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=ffffff&title_color=58A6FF&rank_icon=github&include_all_commits=true" 
-  width="47%" 
-/>
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwakseobang&layout=compact&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=ffffff&title_color=58A6FF&hide_progress=false" 
-  width="47%" 
-/>
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 Activity Graph
-
-![Kwak's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kwakseobang&theme=tokyo-night&hide_border=true)
---- 
-
-<div align="center">
-
-
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=kwakseobang&utm_content=farm">
-  <img
-    src="https://render.gitanimals.org/farms/kwakseobang"
-    width="600"
-    height="300"
-    alt="GitAnimals Farm"
-  />
+<a href="https://github.com/kwakseobang">
+  <img src="https://github-readme-stats.vercel.app/api?username=kwakseobang&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=49% />
+</a>
+<a href="https://github.com/kwakseobang">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwakseobang&layout=compact&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=49% />
 </a>
 
-</div>
-
 ---
+## 🗣️ Contribution
+
+
+<span>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kwakseobang&custom_title=Kwak's%20Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area_color=58A6FF&area=true&hide_border=true"
+        width="58%" 
+      />
+  </span>
+
+  <span>
+    <img 
+      src="https://render.gitanimals.org/farms/kwakseobang"
+        width="37%" 
+      alt="GitAnimals Farm"
+    />
+  </span>
 
 </div>
+
+## 👀 Today Views
+<!--![](https://count.getloli.com/get/@kwakseobang?theme=gelbooru) -->
+<img src="https://count.getloli.com/get/@kwakseobang?theme=rule34" />
+
+![](https://github-profile-3d-contrib.vercel.app/api?username=kwakseobang&theme=tokyonight)
 
