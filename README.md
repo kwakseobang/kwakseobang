@@ -10,8 +10,8 @@
 
 <!-- ####  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6994CD&width=200&lines=Backend+Developer;)](https://git.io/typing-svg) -->
 #### 💻 BackEnd Developer
-#### 🧑‍💻 Me: [@kwakseobang](https://github.com/kwakseobang) 
-#### 👩‍💻 With: [@dahyuniiiiii](https://github.com/dahyuniiiiii)
+#### 🧑‍💻 : [@kwakseobang](https://github.com/kwakseobang) 
+#### 👩‍💻 : [@dahyuniiiiii](https://github.com/dahyuniiiiii)
 
 
 ---
